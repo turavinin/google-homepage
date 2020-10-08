@@ -45,6 +45,11 @@ input[type="search"], textarea, select {
   outline: none;
 }
 
+input[type="search"]::-webkit-search-cancel-button{
+  padding-right: 10px; 
+  margin-left: 10px;
+}
+
 .search-icon {
   display: flex;
   justify-content: flex-start;
