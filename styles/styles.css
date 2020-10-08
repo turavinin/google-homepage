@@ -63,3 +63,32 @@ input[type="search"]::-webkit-search-cancel-button{
 
   padding-left: 15px;
 }
+
+.buttons {
+  display: flex;
+  justify-content: space-between;
+
+
+  margin-left: 770px;
+  margin-right: 770px;
+  margin-top: 0px;
+
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  width: 150px; 
+
+  border: none;
+  font-size: 14px;
+  color: #5F6368;
+  border-radius: 4px;
+}
+
+.button:hover {
+  border: 1px solid #949494d3;
+  color: #2f2f30; 
+}
