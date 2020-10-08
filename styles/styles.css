@@ -1,0 +1,26 @@
+
+main {
+
+  
+  margin: 200px 0px 0px 0px;
+  padding: 300px 0px 300px 0px;
+  
+}
+
+.google-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin-top: -280px;
+
+ 
+}
+
+.search-bar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  
+}
