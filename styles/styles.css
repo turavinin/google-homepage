@@ -33,6 +33,15 @@ header {
   margin-right: 10px;
 }
 
+.top-text > li > a {
+  text-decoration: none;
+  color: #000000
+}
+.top-text > li > a:hover {
+  text-decoration: underline;
+  color: #141414cc
+}
+
 .top-app {
   padding-right: 15px;
 }
@@ -146,3 +155,6 @@ input[type="search"]::-webkit-search-cancel-button{
 #offered {
   text-decoration: none;
 }
+
+
+/* FOOTEER */
